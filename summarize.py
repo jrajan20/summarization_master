@@ -97,7 +97,7 @@ def display_summaries(urls):
     for url in urls:
         display_summary(url)
 
-display_summaries(["https://edwarddonner.com", "https://www.google.com"])
+display_summaries(["https://edwarddonner.com", "https://www.google.com","https://www.openai.com"])
 
 
 
